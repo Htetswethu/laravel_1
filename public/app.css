@@ -1,0 +1,8 @@
+.container{
+    max-width: 600px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bg-yellow{
+    background-color: yellow;
+}
